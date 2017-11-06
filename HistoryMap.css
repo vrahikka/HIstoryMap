@@ -1,0 +1,13 @@
+html, body {
+    overflow-y: hidden;
+}
+
+body {
+    position: relative;
+    font-size: 12px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
